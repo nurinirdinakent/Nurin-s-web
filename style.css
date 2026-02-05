@@ -1,4 +1,14 @@
 body
 {
  background-color:pink;
+
+}
+
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:427aa8;
+    color:#fff;
 }
