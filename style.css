@@ -31,6 +31,7 @@ body{
     list-style:none;
     margin:0;
     padding:0;
+    display:flex;
 }
 
 .menu ul li{
@@ -48,3 +49,4 @@ body{
 .menu ul li a:hover{
     background-color:#4b88bb;
 }
+
