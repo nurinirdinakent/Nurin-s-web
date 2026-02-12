@@ -1,28 +1,5 @@
-body{
-    background:#ccb6b6;
-    color:#ffccff;
-    width:100%;
-    font-family:"Times New Roman";
-    margin:0;
-}
-
-.header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#427aa8;
-    color:#0000ff;
-}
-
-.jarak{
-    padding:0 20px;
-}
-
-.menu{
+.menu {
     background-color:#417aa8;
-    height:50px;
-    line-height:50px;
     width:90%;
     margin:0 auto;
 }
@@ -31,17 +8,17 @@ body{
     list-style:none;
     margin:0;
     padding:0;
-    display:flex;
+    display:flex;          
 }
 
 .menu ul li{
-    float:left;
+    margin:0;
 }
 
 .menu ul li a{
-    width:100px;
     display:block;
-    text-align:center;
+    padding:0 20px;
+    line-height:50px;
     color:#fff;
     text-decoration:none;
 }
@@ -49,4 +26,3 @@ body{
 .menu ul li a:hover{
     background-color:#4b88bb;
 }
-
