@@ -23,6 +23,16 @@
     text-decoration:none;
 }
 
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#4887b9;
+    color:#fff;
+    padding-left:20px;  
+}
+
 .menu ul li a:hover{
     background-color:#4b88bb;
 }
