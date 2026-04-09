@@ -54,19 +54,15 @@
 }
 
 .kiri{
-    width:70%;
+    width:68%;
     float:left;
-    margin:auto;
-    background:#fff;
-    min-height:420px;
 }
 
 .kanan{
     width:30%;
     float:left;
-    margin-left:20px;
+    margin-left:2%;
 }
-
 .undercor{
     text-decoration:none;
 }
