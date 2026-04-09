@@ -64,9 +64,7 @@
 .kanan{
     width:30%;
     float:left;
-    margin:auto;
-    background:#fff;
-    min-height:420px;
+    margin-left:20px;
 }
 
 .undercor{
