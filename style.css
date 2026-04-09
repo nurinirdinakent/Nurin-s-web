@@ -23,14 +23,13 @@
     text-decoration:none;
 }
 
-.header{
+.header{ 
     width:90%;
     margin:auto;
-    height:120px;
+    height:120px; 
     line-height:120px;
-    background:#4887b9;
+    background:#4887b9; 
     color:#fff;
-    padding-left:20px;  
 }
 
 .menu ul li a:hover{
@@ -89,4 +88,8 @@ body{
     background:#417aa8;
     color:#fff;
     margin-bottom: 1pc;
+}
+
+.jarak{
+    padding:20px;
 }
