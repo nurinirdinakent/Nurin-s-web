@@ -49,15 +49,6 @@ body{
     background:#e4e4e4;
 }
 
-.header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#4887b9;
-    color:#fff;
-}
-
 .border{
     border:2px solid #4887b9;
     margin-top:1pc;
