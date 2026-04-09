@@ -36,6 +36,10 @@
     color:#333;
 }
 
+body{
+    background:#e4e4e4;
+}
+
 .header{
     width:90%;
     margin:auto;
